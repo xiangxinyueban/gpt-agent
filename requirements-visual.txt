@@ -1,0 +1,6 @@
+# Visual automation dependencies
+pyautogui>=0.9.53
+opencv-python>=4.8.0
+Pillow>=10.0.0
+pynput>=1.7.6
+numpy>=1.24.0
